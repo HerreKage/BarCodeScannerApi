@@ -1,0 +1,17 @@
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\obj\Debug\netcoreapp2.1\BarCodeScannerApi.csprojAssemblyReference.cache
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\obj\Debug\netcoreapp2.1\BarCodeScannerApi.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\obj\Debug\netcoreapp2.1\BarCodeScannerApi.RazorAssemblyInfo.cache
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\obj\Debug\netcoreapp2.1\BarCodeScannerApi.RazorAssemblyInfo.cs
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\obj\Debug\netcoreapp2.1\BarCodeScannerApi.AssemblyInfoInputs.cache
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\obj\Debug\netcoreapp2.1\BarCodeScannerApi.AssemblyInfo.cs
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\bin\Debug\netcoreapp2.1\BoxObjects.dll
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\bin\Debug\netcoreapp2.1\BoxObjects.pdb
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\obj\Debug\netcoreapp2.1\BarCodeScannerApi.RazorTargetAssemblyInfo.cache
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\obj\Debug\netcoreapp2.1\BarCodeScannerApi.csproj.CopyComplete
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\obj\Debug\netcoreapp2.1\BarCodeScannerApi.dll
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\obj\Debug\netcoreapp2.1\BarCodeScannerApi.pdb
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\bin\Debug\netcoreapp2.1\BarCodeScannerApi.deps.json
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\bin\Debug\netcoreapp2.1\BarCodeScannerApi.runtimeconfig.json
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\bin\Debug\netcoreapp2.1\BarCodeScannerApi.runtimeconfig.dev.json
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\bin\Debug\netcoreapp2.1\BarCodeScannerApi.dll
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BarCodeScannerApi\bin\Debug\netcoreapp2.1\BarCodeScannerApi.pdb

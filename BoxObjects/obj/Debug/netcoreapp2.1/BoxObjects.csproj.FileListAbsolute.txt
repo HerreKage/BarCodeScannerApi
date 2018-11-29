@@ -1,0 +1,9 @@
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BoxObjects\bin\Debug\netcoreapp2.1\BoxObjects.deps.json
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BoxObjects\bin\Debug\netcoreapp2.1\BoxObjects.dll
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BoxObjects\bin\Debug\netcoreapp2.1\BoxObjects.pdb
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BoxObjects\obj\Debug\netcoreapp2.1\BoxObjects.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BoxObjects\obj\Debug\netcoreapp2.1\BoxObjects.AssemblyInfoInputs.cache
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BoxObjects\obj\Debug\netcoreapp2.1\BoxObjects.AssemblyInfo.cs
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BoxObjects\obj\Debug\netcoreapp2.1\BoxObjects.dll
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BoxObjects\obj\Debug\netcoreapp2.1\BoxObjects.pdb
+C:\Users\ahsan\OneDrive\Programmering\3Semesterprojekt\VoresAPI\BarCodeScannerApi\BoxObjects\obj\Debug\netcoreapp2.1\BoxObjects.csprojAssemblyReference.cache
